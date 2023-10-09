@@ -1,0 +1,10 @@
+<html>
+<body>
+<script>
+x=40;
+y="0.00";
+Function concat(x,y);
+concat(x+y);
+</script>
+</body>
+</html>
